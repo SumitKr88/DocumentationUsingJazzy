@@ -1,0 +1,18 @@
+# Ordered by output of `jazzy --help config`
+
+output: JazzyDocumentation_Docs
+clean: true
+xcodebuild_arguments:
+ - -project
+ - JazzyDocumentation.xcodeproj
+ - -scheme
+ - JazzyDocumentation
+ - CODE_SIGNING_ALLOWED = NO
+author: Sumit Kumar
+module: JazzyDocumentation
+module_version: 1.0
+copyright: Copyright © 2019 Sumit Kumar. All rights reserved.
+min_acl: internal
+# Options : [apple | fullwidth | jony | DIRPATH]
+# Which theme to use. Specify either 'apple' (default), one of the other built-in theme names, or the path to your mustache templates and other assets for a custom theme.Default: apple
+theme: apple
