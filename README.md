@@ -1,9 +1,17 @@
 # JazzyDocumentation
 Generate Documentation using Jazzy for Swift Projects
 
-Example project to demonstrate the documentation generation using Jazzy.
+Example project to demonstrate the documentation generation using Jazzy, contains a sample .jazzy.yaml
+https://github.com/SumitKr88/JazzyDocumentation/
 
-Add `.jazzy.yaml` to project doc and type `jazzy` from command terminal, document will be generated.
+Steps:
+1. Add comments in Xcode
+2. Setup & install Jazzy
+3. Create .jazzy.yaml 
+4. Configure .jazzy.yaml as per your project details
+5. Go to Terminal and type `jazzy` from your project folder
+6. Jazzy will start generating the document
 
 *Follow this link for details*
+
 https://medium.com/@sumit16.kumar/document-generation-for-swift-projects-using-jazzy-e148efc72bca
