@@ -9,10 +9,10 @@ import UIKit
 
 /// ViewController class which loads at the start
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        // Do any additional setup after lˆoading the view.
     }
     
     /**
@@ -34,6 +34,13 @@ class ViewController: UIViewController {
         if shouldNavigateToRoot {
             self.navigationController?.popToRootViewController(animated: true)
         }
+    }
+    
+    /// Test method to check `apple` style commenting
+    /// - Parameter testParam1: param 1
+    /// - Parameter testParam2: param 2
+    func testAppleStyleCommentingForDocGenerationUsingJazzy(testParam1: String, testParam2: String) {
+        /// This is a dummy function
     }
 }
 
