@@ -15,3 +15,13 @@ Steps:
 *Follow this link for details*
 
 https://medium.com/@sumit16.kumar/document-generation-for-swift-projects-using-jazzy-e148efc72bca
+
+
+`Having trouble ?`
+If you are having trouble with this project or if you find any bugs, do open a new issue and describe the problem.
+
+`Spread the word!`
+Liked the project? Just give it a star ⭐️ and spread the word!
+
+`Credits`
+© Sumit Kumar | SumitKr88
