@@ -23,5 +23,8 @@ If you are having trouble with this project or if you find any bugs, do open a n
 # Spread the word!
 Liked the project? Just give it a star ⭐️ and spread the word!
 
-# Credits
-© Sumit Kumar | SumitKr88
+# Author/ Credits
+© Sumit Kumar | @SumitKr88
+
+# License
+MIT License
